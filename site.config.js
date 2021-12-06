@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b74cc3da5c9741c59a861b504dadb008',
+  rootNotionPageId: '23113cb712b84081bbc0df73a7935143',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: '一条袜子猫',
-  domain: 'https://www.notion.so/Blog-Notion-b74cc3da5c9741c59a861b504dadb008',
-  author: 'wllld',
+  domain: 'https://www.notion.so/23113cb712b84081bbc0df73a7935143',
+  author: 'ytwzm',
 
   // open graph metadata (optional)
   description: 'Example site description',
